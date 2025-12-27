@@ -1,0 +1,8 @@
+{
+  "name": "InfosecWire",
+  "description": "A professional-grade cybersecurity news and threat intelligence platform with real-time updates and an integrated editorial management system.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
